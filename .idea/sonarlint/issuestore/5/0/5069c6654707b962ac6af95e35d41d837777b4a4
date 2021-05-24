@@ -1,0 +1,20 @@
+
+dsquid:S3027u"FPut single-quotes around 'F' to use the faster "indexOf(char)" method.(…ûÚ¶8„®Îß.
+]squid:S2278,"?Use the recommended AES (Advanced Encryption Standard) instead.(‚şÿ8„®Îß.
+jsquid:S00112I"FDefine and throw a dedicated exception instead of using a generic one.(ÚõÏ†şÿÿÿÿ8„®Îß.
+dsquid:S00112Y"FDefine and throw a dedicated exception instead of using a generic one.(¡ÌÌ{8„®Îß.
+…squid:S1488."bImmediately return this expression instead of assigning it to the temporary variable "ciphertext".(Äşôãøÿÿÿÿ8„®Îß.
+esquid:S00112*"FDefine and throw a dedicated exception instead of using a generic one.(–€«¶8„®Îß.
+isquid:S3027z"FPut single-quotes around 'F' to use the faster "indexOf(char)" method.(©ÿêÂÿÿÿÿÿ8„®Îß.
+@squid:S1643Ñ"Use a StringBuilder instead.(úá©ªıÿÿÿÿ8„®Îß.
+;squid:S1643Ó"Use a StringBuilder instead.(Ã‰îÖ8„®Îß.
+€squid:S14889"]Immediately return this expression instead of assigning it to the temporary variable "plain".(µïÙ–şÿÿÿÿ8„®Îß.
+esquid:S00112„"FDefine and throw a dedicated exception instead of using a generic one.(Æò©8„®Îß.
+qsquid:S1192p"SDefine a constant instead of duplicating this literal "Unknown algorithm[" 4 times.(¡ÆÊ¶8„®Îß.
+@squid:S1643¶"Use a StringBuilder instead.(ÖŞşßüÿÿÿÿ8„®Îß.
+]squid:S22787"?Use the recommended AES (Advanced Encryption Standard) instead.(‚şÿ8„®Îß.
+´%squid:RedundantThrowsDeclarationCheckÄ"vRemove the declaration of thrown exception 'java.security.DigestException', as it cannot be thrown from method's body.(ğÔæüÿÿÿÿ8„®Îß.
+\squid:S1197Í"8Move the array designator from the variable to the type.(ƒ¶ËÎúÿÿÿÿ8„®Îß.
+jsquid:S001125"FDefine and throw a dedicated exception instead of using a generic one.(šíùÿÿÿÿ8„®Îß.
+[squid:S1854Û"7Remove this useless assignment to local variable "cvv".(šÅäÕùÿÿÿÿ8„®Îß.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¼ïúÜ8„®Îß.

@@ -1,0 +1,5 @@
+
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(åèç8÷ö–Îß.
+]squid:S1118":Add a private constructor to hide the implicit public one.(¿¦±éÿÿÿÿÿ8÷ö–Îß.
+º%squid:RedundantThrowsDeclarationCheck"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException' which is a subclass of 'java.lang.Exception'.(åèç8÷ö–Îß.
+isquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(ÎğÑ8÷ö–Îß.

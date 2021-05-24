@@ -1,0 +1,10 @@
+
+Zsquid:UselessImportCheck"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8¥˜ı ß.
+{squid:UselessImportCheck"RRemove this unused import 'org.springframework.scheduling.annotation.EnableAsync'.(•âÙ8¶ìü ß.
+qsquid:UselessImportCheck"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8¥˜ı ß.
+‚squid:UselessImportCheck"TRemove this unused import 'org.springframework.boot.web.client.RestTemplateBuilder'.(—«ñûÿÿÿÿ8¥˜ı ß.
+[squid:S1710"?Remove the 'PropertySources' wrapper from this annotation group(ÿ¿‚İ8åÑú ß.
+‰squid:UselessImportCheck"`Remove this unused import 'org.springframework.boot.context.properties.ConfigurationProperties'.(¦Õ¸Ç8¶ìü ß.
+vsquid:UselessImportCheck"HRemove this unused import 'org.springframework.web.client.RestTemplate'.(Îö¼Şûÿÿÿÿ8¥˜ı ß.
+xsquid:UselessImportCheck"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8¥˜ı ß.
+]squid:UselessImportCheck"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8¥˜ı ß.

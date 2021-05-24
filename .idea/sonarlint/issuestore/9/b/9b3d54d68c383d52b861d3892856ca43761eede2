@@ -1,0 +1,5 @@
+
+Fsquid:S1172"+Remove this unused method parameter "conn".(¹ð¶8ª»Ò£ß.
+squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(õâ³êùÿÿÿÿ8Þ—ü£ß.
+squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÔûñŽþÿÿÿÿ8Ó…è¢ß.
+qsquid:UselessImportCheck"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Þ8íµÄ¤ß.

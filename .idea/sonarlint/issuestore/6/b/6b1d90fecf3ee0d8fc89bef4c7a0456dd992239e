@@ -1,0 +1,7 @@
+
+Osquid:S1197"8Move the array designator from the variable to the type.(Ó×¤Þ
+Tsquid:S1197"8Move the array designator from the variable to the type.(¨ÅÃÎøÿÿÿÿ
+›%squid:RedundantThrowsDeclarationCheck."jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(•Â…Î
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(Øõýé
+›%squid:RedundantThrowsDeclarationCheck("jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(»âª–
+Psquid:S1197Ž"8Move the array designator from the variable to the type.(ÑÉÇî
